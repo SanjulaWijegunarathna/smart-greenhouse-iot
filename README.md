@@ -71,24 +71,6 @@ At the same time, sensor information can be monitored remotely through the Blynk
 * Water Pump
 * Wi-Fi
 
-## Project Images
-
-### Smart Greenhouse Prototype
-
-Add your greenhouse prototype image here.
-
-```text
-images/greenhouse-front.jpg
-```
-
-### Blynk IoT Dashboard
-
-Add your Blynk dashboard screenshot here.
-
-```text
-images/blynk-dashboard.jpg
-```
-
 ## Project Objectives
 
 * Monitor greenhouse environmental conditions in real time
